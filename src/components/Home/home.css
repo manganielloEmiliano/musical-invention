@@ -1,0 +1,11 @@
+.layout {
+    width: 100%; 
+    align-self: flex-start;
+    padding: 1em; 
+    display: flex;
+    flex-wrap: wrap; 
+    gap: 1em;
+    margin-left: 3em; 
+    
+  }
+  

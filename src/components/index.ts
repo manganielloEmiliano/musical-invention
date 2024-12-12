@@ -1,0 +1,7 @@
+export * from "./form/formulario"
+export * from "./SignUp/SignUp"
+export * from "./Login/Login"
+export * from "./Home/Home"
+export * from "./PrivateRoute/PrivateRoute"
+export * from "./PublicRoute/PublicRoute"
+export * from "./BookDetail/BookDetail"

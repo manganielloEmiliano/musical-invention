@@ -1,0 +1,16 @@
+body {
+  width: 100%;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background: radial-gradient(87.08% 45.56% at 75.2% 38.39%, #6200B0 0%, #17002B 100%);
+}
+
+.main-container {
+  width: 100%;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
